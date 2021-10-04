@@ -1,0 +1,15 @@
+[2021-10-02 11.10.05] Successfully created [AutoSave] backup [2021-10-02 11.10.05 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-02 23.01.27] Successfully created [AutoSave] backup [2021-10-02 23.01.27 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-03 03.01.31] Successfully created [AutoSave] backup [2021-10-03 03.01.28 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-03 20.18.56] Successfully created [AutoSave] backup [2021-10-03 20.18.55 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-03 20.18.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-02 11.10.05 - auto.zip].
+[2021-10-03 20.18.56] [AutoSave] backup file [IC-shelter\ProjectBackup\backups\2021-10-02 11.10.05 - auto.zip] removed.
+[2021-10-04 08.13.23] Successfully created [AutoSave] backup [2021-10-04 08.13.20 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-04 08.13.23] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-02 23.01.27 - auto.zip].
+[2021-10-04 08.13.23] [AutoSave] backup file [IC-shelter\ProjectBackup\backups\2021-10-02 23.01.27 - auto.zip] removed.
+[2021-10-04 12.13.21] Successfully created [AutoSave] backup [2021-10-04 12.13.20 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-04 12.13.21] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-03 03.01.28 - auto.zip].
+[2021-10-04 12.13.21] [AutoSave] backup file [IC-shelter\ProjectBackup\backups\2021-10-03 03.01.28 - auto.zip] removed.
+[2021-10-04 18.31.56] Successfully created [AutoSave] backup [2021-10-04 18.31.55 - auto.zip] requested by [DESKTOP-ELHH89I:wande].
+[2021-10-04 18.31.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-03 20.18.55 - auto.zip].
+[2021-10-04 18.31.56] [AutoSave] backup file [IC-shelter\ProjectBackup\backups\2021-10-03 20.18.55 - auto.zip] removed.

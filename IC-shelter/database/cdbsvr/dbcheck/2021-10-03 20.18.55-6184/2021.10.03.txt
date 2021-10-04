@@ -1,0 +1,93 @@
+[2021.10.03 20:18:55] [0000m.04s.504ms] [0] WELCOME
+[2021.10.03 20:18:55] [0000m.04s.509ms] [1] iCDB Diagnostic ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.03 20:18:55] [0000m.04s.509ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.03 20:18:55] [0000m.04s.510ms] [1] Base flow version [VX.2.7]
+[2021.10.03 20:18:55] [0000m.04s.510ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.03 20:18:55] [0000m.04s.510ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.03 20:18:55] [0000m.04s.561ms] [1] Machine [DESKTOP-ELHH89I]  IP [127.0.0.1,192.168.0.101,192.168.56.1]  User [wande]  PID [6184]
+[2021.10.03 20:18:55] [0000m.04s.562ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.10.03 20:18:55] [0000m.04s.562ms] [1] Current working dir [C:\PADS Projects\DxProjects\IC-shelter]
+[2021.10.03 20:18:55] [0000m.04s.562ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\wande\AppData\Local\Microsoft\WindowsApps;C:\Users\wande\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.10.03 20:18:55] [0000m.04s.563ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.03 20:18:55] [0000m.04s.563ms] [1] SDD_PLATFORM [win32]
+[2021.10.03 20:18:55] [0000m.04s.563ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.03 20:18:55] [0000m.04s.564ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.03 20:18:55] [0000m.04s.580ms] [2] Diagnostic: Snapshot: DxD
+[2021.10.03 20:18:55] [0000m.04s.580ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2021.10.03 20:18:55] [0000m.04s.580ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: SnapshotCheck: DxDCompView (cached)
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: DxDCheck: LineDxD
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: DxDCheck: CircleDxD
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: DxDCheck: ArcDxD
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: DxDCheck: RectDxD
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: DxDCheck: TextDxD
+[2021.10.03 20:18:55] [0000m.04s.581ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2021.10.03 20:18:55] [0000m.04s.582ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2021.10.03 20:18:55] [0000m.04s.582ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2021.10.03 20:18:55] [0000m.04s.582ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2021.10.03 20:18:55] [0000m.04s.582ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2021.10.03 20:18:55] [0000m.04s.582ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2021.10.03 20:18:55] [0000m.04s.582ms] [1] Diagnostic: Check failed on Snapshot: DxD
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: Block: Top
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2021.10.03 20:18:55] [0000m.04s.583ms] [2] Diagnostic: BlockCheck: CDBImplBlockViewDxD
+[2021.10.03 20:18:55] [0000m.04s.584ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplNetDxD
+[2021.10.03 20:18:55] [0000m.04s.584ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplRipperDxD
+[2021.10.03 20:18:55] [0000m.04s.584ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2021.10.03 20:18:55] [0000m.04s.584ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2021.10.03 20:18:55] [0000m.04s.584ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2021.10.03 20:18:55] [0000m.04s.585ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2021.10.03 20:18:55] [0000m.04s.585ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2021.10.03 20:18:55] [0000m.04s.585ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2021.10.03 20:18:55] [0000m.04s.585ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2021.10.03 20:18:55] [0000m.04s.585ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2021.10.03 20:18:55] [0000m.04s.585ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2021.10.03 20:18:55] [0000m.04s.586ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2021.10.03 20:18:55] [0000m.04s.586ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2021.10.03 20:18:55] [0000m.04s.586ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2021.10.03 20:18:55] [0000m.04s.586ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2021.10.03 20:18:55] [0000m.04s.586ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2021.10.03 20:18:55] [0000m.04s.587ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2021.10.03 20:18:55] [0000m.04s.587ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2021.10.03 20:18:55] [0000m.04s.587ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2021.10.03 20:18:55] [0000m.04s.587ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2021.10.03 20:18:55] [0000m.04s.587ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2021.10.03 20:18:55] [0000m.04s.588ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2021.10.03 20:18:55] [0000m.04s.588ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2021.10.03 20:18:55] [0000m.04s.588ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2021.10.03 20:18:55] [0000m.04s.588ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2021.10.03 20:18:55] [0000m.04s.588ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2021.10.03 20:18:55] [0000m.04s.589ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2021.10.03 20:18:55] [0000m.04s.589ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2021.10.03 20:18:55] [0000m.04s.589ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2021.10.03 20:18:55] [0000m.04s.589ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2021.10.03 20:18:55] [0000m.04s.589ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2021.10.03 20:18:55] [0000m.04s.590ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2021.10.03 20:18:55] [0000m.04s.591ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2021.10.03 20:18:55] [0000m.04s.591ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2021.10.03 20:18:55] [0000m.04s.591ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2021.10.03 20:18:55] [0000m.04s.591ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2021.10.03 20:18:55] [0000m.04s.591ms] [2] Diagnostic: Snapshot: DxD check finished.
+[2021.10.03 20:18:55] [0000m.04s.600ms] [2] Diagnostic: Snapshot: __ise_DxD
+[2021.10.03 20:18:55] [0000m.04s.600ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2021.10.03 20:18:55] [0000m.04s.600ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2021.10.03 20:18:55] [0000m.04s.601ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2021.10.03 20:18:55] [0000m.04s.601ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2021.10.03 20:18:55] [0000m.04s.602ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2021.10.03 20:18:55] [0000m.04s.602ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2021.10.03 20:18:55] [0000m.04s.602ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2021.10.03 20:18:55] [0000m.04s.602ms] [2] Diagnostic: Snapshot: __ise_DxD check finished.
+[2021.10.03 20:18:55] [0000m.04s.607ms] [0] Diagnostic: FINISH
+[2021.10.03 20:18:55] [0000m.04s.607ms] [0] .

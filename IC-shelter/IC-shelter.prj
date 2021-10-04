@@ -1,0 +1,76 @@
+SECTION DesignInfo
+LIST IndependentLibraries
+VALUE "DIR [W] . (IC_shelter)"
+VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\Borders (Borders)"
+VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\Builtin (Builtin)"
+VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\Globals (Globals)"
+VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\HeteroSyms (HeteroSyms)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Audio (Audio)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Battery (Battery)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Boards (Boards)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Capacitor (Capacitor)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Circuit_Protection (Circuit_Protection)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Connectors (Connectors)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Discrete (Discrete)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Display (Display)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Electromecanical (Electromecanical)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Filter (Filter)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\ICs (ICs)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Inductors (Inductors)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Mechanical (Mechanical)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Optoelectronics (Optoelectronics)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\PartQuest (PartQuest)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Pasive (Pasive)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Resistor (Resistor)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Sensors (Sensors)"
+VALUE "DIR [W] C:\Users\wande\OneDrive\Desktop\Diseño\proyecto\Schematic_Symbols\Transformers (Transformers)"
+ENDLIST
+KEY BorderSymbols "./SL_borders.ini"
+KEY Bus_Contents "./busconts.ini"
+KEY CentralLibrary ""
+KEY CnsFileName ""
+KEY FrontEndSnapshot "DxD"
+KEY LayoutID "PADS100"
+KEY PcbCfgFileName ""
+KEY PinComponents "./SL_speccomp.ini"
+KEY SheetsEditMode "1"
+KEY DxD_Version "PADSVX.2.7"
+KEY NumberingType "INDEPTH"
+KEY OrderFileName ".\"
+KEY PropertyDefinitions "${SDD_HOME}\Standard\netlist.prp"
+KEY DBCFile "${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\StarterLibrary.dbc"
+KEY HandlePipedPartNumbers "FALSE"
+ENDSECTION
+SECTION FlowSettings
+KEY FlowType "NETLIST"
+ENDSECTION
+SECTION ICXProInfo
+KEY ICXProDir "./Highspeed/ICXPro"
+ENDSECTION
+SECTION ProjectBackup
+KEY ConfigFile ".\ProjectBackup\ProjectBackup.cfg"
+ENDSECTION
+SECTION Template_Design
+KEY CADBackAnno "0"
+KEY ConfigType "PCB"
+KEY SchematicConflict "FE"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION iCDB
+LIST Designs
+VALUE "IC-Shelter"
+ENDLIST
+KEY DedicatedServerName ""
+KEY iCDBDir ".\database"
+ENDSECTION
+SECTION IC-Shelter
+KEY CADBackAnno "0"
+KEY ConfigType "PCB"
+KEY SchematicConflict "FE"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY SearchPathScheme "(Default)"
+KEY RootBlock "Top"
+ENDSECTION

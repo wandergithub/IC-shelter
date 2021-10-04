@@ -1,0 +1,30 @@
+[2021.10.03 20:18:44] [0011m.57s.833ms] [0] WELCOME
+[2021.10.03 20:18:44] [0011m.57s.852ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.03 20:18:44] [0011m.57s.852ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.03 20:18:44] [0011m.57s.852ms] [1] Base flow version [VX.2.7]
+[2021.10.03 20:18:44] [0011m.57s.852ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.03 20:18:44] [0011m.57s.852ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.03 20:18:44] [0011m.57s.855ms] [1] Machine [DESKTOP-ELHH89I]  IP [127.0.0.1,192.168.0.101,192.168.56.1]  User [wande]  PID [3384]
+[2021.10.03 20:18:44] [0011m.57s.856ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.10.03 20:18:44] [0011m.57s.856ms] [1] Current working dir [C:\PADS Projects\DxProjects\IC-shelter]
+[2021.10.03 20:18:44] [0011m.57s.856ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\wande\AppData\Local\Microsoft\WindowsApps;C:\Users\wande\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.10.03 20:18:44] [0011m.57s.856ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.03 20:18:44] [0011m.57s.856ms] [1] SDD_PLATFORM [win32]
+[2021.10.03 20:18:44] [0011m.57s.856ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] WARNING: Database [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] was manually copied
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] File change time:        [2021-10-02 12.32.28]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] File modification time:  [2021-10-02 23.01.40]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] Last change time:        [2021-10-02 23.01.27]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] Last database open information:
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] Time:             [2021-10-02 23.01.27]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] Location:         [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] Machine:          [DESKTOP-ELHH89I]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] User:             [wande]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] PID:              [1272]
+[2021.10.03 20:18:44] [0011m.57s.857ms] [3] Application:      [iCDB Server]
+[2021.10.03 20:18:44] [0011m.57s.858ms] [3] Operating system: [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.10.03 20:18:44] [0011m.57s.858ms] [3] WARNING: Regenerating database GUID
+[2021.10.03 20:18:44] [0011m.57s.858ms] [3] Previous database GUID [e986-b292-66c4-9a36-0076-8516-0768-5160-21d9-69f7-0532-a38b]
+[2021.10.03 20:18:44] [0011m.57s.859ms] [3] Current database GUID  [cef9-97e0-f12f-35d2-4684-a51a-684a-5160-29eb-69f7-0532-a38b]
+[2021.10.03 20:18:44] [0011m.57s.860ms] [0] .

@@ -1,0 +1,14 @@
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [38.8 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-02 23.01.27 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [39.9 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-03 03.01.28 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [47.1 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-03 20.18.55 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+Properties> Can't open project database:Client is not connected to the server
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [71.8 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-04 12.13.20 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+ICDB server [info]: [AutoSave] backup of size [102.0 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-04 18.31.55 - auto.zip]
