@@ -1,0 +1,501 @@
+[2021.10.14 13:35:29] [0000m.00s.027ms] [0] WELCOME
+[2021.10.14 13:35:29] [0000m.00s.028ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.14 13:35:29] [0000m.00s.028ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.14 13:35:29] [0000m.00s.028ms] [1] Base flow version [VX.2.7]
+[2021.10.14 13:35:29] [0000m.00s.028ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.14 13:35:29] [0000m.00s.028ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] Machine [DESKTOP-ELHH89I]  IP [10.0.0.5,127.0.0.1,192.168.56.1]  User [wande]  PID [1540]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] Current working dir [C:\PADS Projects\DxProjects\IC-shelter]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\wande\AppData\Local\Microsoft\WindowsApps;C:\Users\wande\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] SDD_PLATFORM [win32]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.14 13:35:29] [0000m.00s.043ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.14 13:35:29] [0000m.00s.044ms] [2] S: Loading config files
+[2021.10.14 13:35:29] [0000m.00s.064ms] [1] Config file [C:\PADS Projects\DxProjects\IC-shelter\database\cdbsvr\Server.cfg] not found
+[2021.10.14 13:35:29] [0000m.00s.067ms] [3] S: Config loaded
+[2021.10.14 13:35:29] [0000m.00s.072ms] [0] S: Project path [C:\PADS Projects\DxProjects\IC-shelter\database] on file system [NTFS]
+[2021.10.14 13:35:29] [0000m.00s.072ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\IC-shelter\IC-shelter.prj] on file system [NTFS]
+[2021.10.14 13:35:29] [0000m.00s.073ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.10.14 13:35:29] [0000m.00s.073ms] [0] S: Single-user mode (auto)
+[2021.10.14 13:35:29] [0000m.00s.073ms] [0] S: Event polling mode autodetection
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] S: Started up automatically by iCDB Client: DESKTOP-ELHH89I:wande:9940
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] S: Auto close mode
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] S: Database ID [cef9-97e0-f12f-35d2-4684-a51a-684a-5160-29eb-69f7-0532-a38b]
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] PathTranslator: BEGIN dumping
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] PathTranslator: Local -> global path prefix list
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] PathTranslator: Global -> local path prefix list
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] PathTranslator: END dumping
+[2021.10.14 13:35:29] [0000m.00s.074ms] [0] S: START
+[2021.10.14 13:35:29] [0000m.00s.075ms] [0] S: Server startup lock file created
+[2021.10.14 13:35:29] [0000m.00s.075ms] [0] S: Listening for client connections on port [10002]
+[2021.10.14 13:35:29] [0000m.00s.077ms] [0] S: Server network ID [DESKTOP-ELHH89I:10.0.0.5,192.168.56.1,DESKTOP-ELHH89I:10002]
+[2021.10.14 13:35:29] [0000m.00s.077ms] [0] S: Server GUID [070a-0e3d-12bc-4a3c-16a6-8617-6a68-6160-2d86-1615-c1d1-03fb]
+[2021.10.14 13:35:29] [0000m.00s.077ms] [0] S: Project GUID [cef9-97e0-f12f-35d2-4684-a51a-684a-5160-29eb-69f7-0532-a38b]
+[2021.10.14 13:35:29] [0000m.00s.080ms] [0] S: Wrote data to server address file
+[2021.10.14 13:35:29] [0000m.00s.080ms] [0] S: Server startup lock file removed
+[2021.10.14 13:35:29] [0000m.00s.080ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\IC-shelter\IC-shelter.prj]
+[2021.10.14 13:35:30] [0000m.00s.360ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.10.14 13:35:30] [0000m.00s.360ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.10.14 13:35:30] [0000m.00s.360ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.10.14 13:35:30] [0000m.00s.361ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.10.14 13:35:30] [0000m.00s.361ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.10.14 13:35:30] [0000m.00s.361ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.10.14 13:35:30] [0000m.00s.362ms] [0] S: Local disc access time: 73 us
+[2021.10.14 13:35:30] [0000m.00s.362ms] [0] S: File server access time: 75 us
+[2021.10.14 13:35:30] [0000m.00s.363ms] [0] Single file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] size [243952 (238.2 kB)]
+[2021.10.14 13:35:30] [0000m.00s.363ms] [1] Single file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] opened in read-write mode
+[2021.10.14 13:35:30] [0000m.00s.363ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.14 13:35:30] [0000m.00s.364ms] [0] Database GUARD OK: [243952]
+[2021.10.14 13:35:30] [0000m.00s.365ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.14 13:35:30] [0000m.00s.365ms] [0] Database GUARD OK: [243952]
+[2021.10.14 13:35:30] [0000m.00s.365ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.14 13:35:30] [0000m.00s.365ms] [0] Database GUARD OK: [243952]
+[2021.10.14 13:35:30] [0000m.00s.366ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.14 13:35:30] [0000m.00s.366ms] [0] Database GUARD OK: [243952]
+[2021.10.14 13:35:30] [0000m.00s.366ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.14 13:35:30] [0000m.00s.366ms] [0] Database GUARD OK: [243952]
+[2021.10.14 13:35:30] [0000m.00s.366ms] [0] SingleFile: [2e6a-a6f2-6f9b-3abe] SFI version check [1009] [1009]
+[2021.10.14 13:35:30] [0000m.00s.374ms] [0] SingleFile: [2e6a-a6f2-6f9b-3abe] Database SFI header has been read in [7ms 731us]
+[2021.10.14 13:35:30] [0000m.00s.381ms] [0] iCDB Server PI: Server & plugin session [60]
+[2021.10.14 13:35:30] [0000m.00s.381ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\IC-shelter\database]
+[2021.10.14 13:35:30] [0000m.00s.381ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\IC-shelter\database] opened
+[2021.10.14 13:35:30] [0000m.00s.593ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.10.14 13:35:30] [0000m.00s.593ms] [0] iCDB Database: Checking constraint definitions version
+[2021.10.14 13:35:30] [0000m.00s.773ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.10.14 13:35:30] [0000m.00s.781ms] [0] iCDB Server PI: Initializing plugins
+[2021.10.14 13:35:30] [0000m.00s.782ms] [0] iCDB Server PI: Plugins initialized
+[2021.10.14 13:35:30] [0000m.00s.782ms] [0] S: iCDB database loaded
+[2021.10.14 13:35:30] [0000m.00s.784ms] [0] S: Starting threads
+[2021.10.14 13:35:30] [0000m.00s.784ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.10.14 13:35:30] [0000m.00s.784ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.10.14 13:35:30] [0000m.00s.787ms] [0] IT: Session [61] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [9940] created
+[2021.10.14 13:35:30] [0000m.00s.791ms] [1] SC[61]: Registered sub-client [DxD] with ID [1] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:30] [0000m.00s.793ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.10.14 13:35:30] [0000m.00s.795ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-ELHH89I] user [wande] with process ID [2104] created
+[2021.10.14 13:35:30] [0000m.00s.795ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.10.14 13:35:30] [0000m.00s.886ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 13:35:30] [0000m.00s.970ms] [1] SC[61]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:30] [0000m.00s.998ms] [1] SC[61]: Registered sub-client [SymbolEditor] with ID [3] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:30] [0000m.01s.006ms] [1] SC[61]: Registered sub-client [SelectionHolder] with ID [4] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:30] [0000m.01s.057ms] [1] SC[61]: Registered sub-client [Core::DesignListener-440344976-0] with ID [5] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:30] [0000m.01s.062ms] [1] SC[61]: Registered sub-client [BlockCacheDxD:440346848] with ID [6] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:30] [0000m.01s.066ms] [1] SC[61]: Registered sub-client [Core::NetFlatData-24707] with ID [7] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:31] [0000m.01s.337ms] [1] SC[61]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:31] [0000m.01s.342ms] [1] SC[61]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:31] [0000m.01s.347ms] [1] SC[61]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.452ms] [1] SC[61]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.482ms] [1] SC[61]: Registered sub-client [HdlProject] with ID [11] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.492ms] [1] SC[61]: Registered sub-client [Navigator] with ID [12] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.524ms] [1] SC[61]: Registered sub-client [OutputWindow] with ID [13] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.531ms] [1] SC[61]: Registered sub-client [PlaceDevice] with ID [14] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.848ms] [1] SC[61]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:35] [0000m.05s.855ms] [1] SC[61]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:37] [0000m.08s.053ms] [1] SC[61]: Registered sub-client [FFSSelListener] with ID [17] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:37] [0000m.08s.059ms] [1] SC[61]: Registered sub-client [SAE] with ID [18] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:37] [0000m.08s.084ms] [1] SC[61]: Registered sub-client [DxConstraints] with ID [19] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:37] [0000m.08s.089ms] [1] SC[61]: Registered sub-client [CCZAddin] with ID [20] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:37] [0000m.08s.095ms] [1] SC[61]: Registered sub-client [DxThumbnails] with ID [21] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:37] [0000m.08s.100ms] [1] SC[61]: Registered sub-client [MyParts] with ID [22] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.158ms] [1] SC[61]: Registered sub-client [PinsList] with ID [23] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.439ms] [1] SC[61]: Registered sub-client [toolboxes] with ID [24] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.509ms] [1] SC[61]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.515ms] [1] SC[61]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:574677032] with ID [26] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.603ms] [1] SC[61]: Registered sub-client [SheetConnectorsCacheDxD:1634232938] with ID [27] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.714ms] [1] SC[61]: Registered sub-client [NetsNamesCollectorDxD:1634232938] with ID [28] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.805ms] [1] SC[61]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.810ms] [1] SC[61]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.832ms] [1] SC[61]: Registered sub-client [xprob] with ID [31] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.946ms] [1] SC[61]: Registered sub-client [StartServerClient598] with ID [32] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:38] [0000m.08s.947ms] [1] SC[61]: UnRegistered sub-client [StartServerClient598] with ID [32] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:35:41] [0000m.11s.292ms] [1] SC[61]: Registered sub-client [DxDbSearch] with ID [33] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:36:00] [0000m.31s.087ms] [0] DFAMT: File server access time: 132 us
+[2021.10.14 13:36:08] [0000m.38s.358ms] [0] IT: Session [62] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [10368] created
+[2021.10.14 13:36:08] [0000m.38s.360ms] [1] SC[62]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [62] host [DESKTOP-ELHH89I] user [wande] process ID [10368]
+[2021.10.14 13:36:08] [0000m.38s.451ms] [1] CMT: There are [2] clients now: 61, 62
+[2021.10.14 13:36:09] [0000m.39s.286ms] [0] IT: Session [63] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [10360] created
+[2021.10.14 13:36:09] [0000m.39s.288ms] [1] SC[63]: Registered sub-client [icdb2wir] with ID [1] for session ID [63] host [DESKTOP-ELHH89I] user [wande] process ID [10360]
+[2021.10.14 13:36:09] [0000m.39s.342ms] [1] CMT: There are [3] clients now: 61, 62, 63
+[2021.10.14 13:36:09] [0000m.39s.657ms] [1] SC[63]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [63] host [DESKTOP-ELHH89I] user [wande] process ID [10360]
+[2021.10.14 13:36:09] [0000m.39s.716ms] [1] CMT: Removed client [63]
+[2021.10.14 13:36:09] [0000m.39s.717ms] [1] CMT: There are [2] clients now: 61, 62
+[2021.10.14 13:36:12] [0000m.42s.185ms] [0] IT: Session [64] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [860] created
+[2021.10.14 13:36:12] [0000m.42s.187ms] [1] SC[64]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:12] [0000m.42s.207ms] [1] CMT: There are [3] clients now: 61, 62, 64
+[2021.10.14 13:36:13] [0000m.43s.346ms] [1] SC[64]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.374ms] [1] SC[64]: Registered sub-client [ObjectHolder_145929320] with ID [3] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.380ms] [1] SC[64]: Registered sub-client [BlockCacheDxD:139371904] with ID [4] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.385ms] [1] SC[64]: Registered sub-client [GlobalNetAliasUpdater_145928592] with ID [5] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.390ms] [1] SC[64]: Registered sub-client [IcdbNetProcessorSubClientDxD:149450072] with ID [6] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.722ms] [1] SC[64]: UnRegistered sub-client [GlobalNetAliasUpdater_145928592] with ID [5] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.722ms] [1] SC[64]: UnRegistered sub-client [BlockCacheDxD:139371904] with ID [4] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.723ms] [1] SC[64]: UnRegistered sub-client [ObjectHolder_145929320] with ID [3] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.723ms] [1] SC[64]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:149450072] with ID [6] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.723ms] [1] SC[64]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.733ms] [1] SC[64]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [64] host [DESKTOP-ELHH89I] user [wande] process ID [860]
+[2021.10.14 13:36:13] [0000m.43s.757ms] [1] CMT: Removed client [64]
+[2021.10.14 13:36:13] [0000m.43s.757ms] [1] CMT: There are [2] clients now: 61, 62
+[2021.10.14 13:36:14] [0000m.44s.509ms] [1] SC[62]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [62] host [DESKTOP-ELHH89I] user [wande] process ID [10368]
+[2021.10.14 13:36:14] [0000m.44s.532ms] [1] CMT: Removed client [62]
+[2021.10.14 13:36:14] [0000m.44s.532ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 13:36:14] [0000m.45s.025ms] [0] IT: Session [65] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [10368] created
+[2021.10.14 13:36:14] [0000m.45s.026ms] [1] SC[65]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [65] host [DESKTOP-ELHH89I] user [wande] process ID [10368]
+[2021.10.14 13:36:14] [0000m.45s.084ms] [1] CMT: There are [2] clients now: 61, 65
+[2021.10.14 13:36:15] [0000m.45s.139ms] [1] SC[65]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [65] host [DESKTOP-ELHH89I] user [wande] process ID [10368]
+[2021.10.14 13:36:15] [0000m.45s.196ms] [1] CMT: Removed client [65]
+[2021.10.14 13:36:15] [0000m.45s.196ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 13:36:20] [0000m.51s.027ms] [0] IT: Session [66] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [10368] created
+[2021.10.14 13:36:20] [0000m.51s.028ms] [1] SC[66]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [66] host [DESKTOP-ELHH89I] user [wande] process ID [10368]
+[2021.10.14 13:36:20] [0000m.51s.121ms] [1] CMT: There are [2] clients now: 61, 66
+[2021.10.14 13:36:21] [0000m.51s.157ms] [1] SC[66]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [66] host [DESKTOP-ELHH89I] user [wande] process ID [10368]
+[2021.10.14 13:36:21] [0000m.51s.227ms] [1] CMT: Removed client [66]
+[2021.10.14 13:36:21] [0000m.51s.227ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 13:37:28] [0001m.58s.969ms] [1] SC[61]: Registered sub-client [ObjectHolder_632068456] with ID [34] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:37:28] [0001m.58s.974ms] [1] SC[61]: Registered sub-client [BlockCacheDxD:575668224] with ID [35] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:37:28] [0001m.58s.978ms] [1] SC[61]: Registered sub-client [GlobalNetAliasUpdater_632069184] with ID [36] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:37:28] [0001m.58s.983ms] [1] SC[61]: Registered sub-client [IcdbNetProcessorSubClientDxD:631707160] with ID [37] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 13:40:24] [0004m.55s.066ms] [0] IT: Session [67] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [10304] created
+[2021.10.14 13:40:24] [0004m.55s.066ms] [1] SC[67]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [67] host [DESKTOP-ELHH89I] user [wande] process ID [10304]
+[2021.10.14 13:40:25] [0004m.55s.169ms] [1] SC[67]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [67] host [DESKTOP-ELHH89I] user [wande] process ID [10304]
+[2021.10.14 13:40:25] [0004m.55s.171ms] [1] CMT: There are [2] clients now: 61, 67
+[2021.10.14 13:40:25] [0004m.55s.171ms] [1] CMT: Removed client [67]
+[2021.10.14 13:40:25] [0004m.55s.171ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 13:42:02] [0006m.32s.229ms] [0] IT: Session [68] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [10920] created
+[2021.10.14 13:42:02] [0006m.32s.231ms] [1] SC[68]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [68] host [DESKTOP-ELHH89I] user [wande] process ID [10920]
+[2021.10.14 13:42:02] [0006m.32s.243ms] [1] CMT: There are [2] clients now: 61, 68
+[2021.10.14 13:42:02] [0006m.32s.344ms] [1] SC[68]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [68] host [DESKTOP-ELHH89I] user [wande] process ID [10920]
+[2021.10.14 13:42:02] [0006m.32s.356ms] [1] CMT: Removed client [68]
+[2021.10.14 13:42:02] [0006m.32s.356ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 13:42:10] [0006m.40s.935ms] [0] IT: Session [69] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [7480] created
+[2021.10.14 13:42:10] [0006m.40s.938ms] [1] SC[69]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [69] host [DESKTOP-ELHH89I] user [wande] process ID [7480]
+[2021.10.14 13:42:10] [0006m.40s.948ms] [1] CMT: There are [2] clients now: 61, 69
+[2021.10.14 13:42:10] [0006m.41s.062ms] [1] SC[69]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [69] host [DESKTOP-ELHH89I] user [wande] process ID [7480]
+[2021.10.14 13:42:11] [0006m.41s.160ms] [1] CMT: Removed client [69]
+[2021.10.14 13:42:11] [0006m.41s.161ms] [1] CMT: There are [1] clients now: 61
+[2021.10.14 15:04:16] [0088m.46s.731ms] [1] SC[61]: UnRegistered sub-client [SAE] with ID [18] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 15:04:16] [0088m.46s.765ms] [1] SC[61]: Registered sub-client [SAE] with ID [38] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 15:04:33] [0089m.03s.730ms] [1] SC[61]: UnRegistered sub-client [SAE] with ID [38] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 15:04:33] [0089m.03s.735ms] [1] SC[61]: Registered sub-client [SAE] with ID [39] for session ID [61] host [DESKTOP-ELHH89I] user [wande] process ID [9940]
+[2021.10.14 16:18:25] [0162m.55s.599ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-14 16.18.24 - auto.zip] with GUID [5abb-2e60-ff8d-9344-0909-8616-9098-6160-6c88-1615-c1d1-03fb]
+[2021.10.14 16:18:25] [0162m.55s.621ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[137a-de72-a42a-e731-ab29-f510-c29f-5160-292b-69f7-0532-a38b] CreationTime[Friday, October 08, 2021 00:37:14] Type[Autosave] Creator[iCDB Server (2021-10-07 20.37.11-10008)] ApplicationName[iCDB Server (2021-10-07 20.37.11-10008)] UserName[wande] MachineName[DESKTOP-ELHH89I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-07 20.37.14 - auto.zip] BackupFileSize[209438] Persistent[FALSE]
+[2021.10.14 16:18:25] [0162m.55s.624ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-07 20.37.14 - auto.zip] with GUID [137a-de72-a42a-e731-ab29-f510-c29f-5160-292b-69f7-0532-a38b] removed
+[2021.10.14 16:18:25] [0162m.55s.661ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[5abb-2e60-ff8d-9344-0909-8616-9098-6160-6c88-1615-c1d1-03fb] CreationTime[Thursday, October 14, 2021 20:18:24] Type[Autosave] Creator[iCDB Server (2021-10-14 13.35.29-1540)] ApplicationName[iCDB Server (2021-10-14 13.35.29-1540)] UserName[wande] MachineName[DESKTOP-ELHH89I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-14 16.18.24 - auto.zip] BackupFileSize[284251] Persistent[FALSE]
+[2021.10.14 17:15:15] [0219m.45s.405ms] [0] MWT: PBT_APMSTANDBY || PBT_APMSUSPEND
+[2021.10.14 17:15:15] [0219m.45s.406ms] [0] MWT: Requesting emergency server stop: System goes to SLEEP
+[2021.10.14 17:15:15] [0219m.45s.435ms] [0] Removing server address file.
+[2021.10.14 17:15:15] [0219m.45s.460ms] [0] S: Closing server
+[2021.10.14 17:15:15] [0219m.45s.486ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[070a-0e3d-12bc-4a3c-16a6-8617-6a68-6160-2d86-1615-c1d1-03fb] Command number[178503]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10002] # Status [Closing]]
+[2021.10.14 17:15:15] [0219m.45s.557ms] [5] SC[61]: Received command: Server # ClientCommandID[178273] # SubClientID[1] @ PIMCommand # CDBCommand.Size[34]
+[2021.10.14 17:15:15] [0219m.45s.581ms] [3] IT: FREE
+[2021.10.14 17:15:15] [0219m.45s.581ms] [5] ET: Executing client [61] command: Server # ClientCommandID[178273] # SubClientID[1] @ PIMCommand # CDBCommand.Size[34]
+[2021.10.14 17:15:15] [0219m.45s.581ms] [4] IT: Waiting for finish
+[2021.10.14 17:15:15] [0219m.45s.613ms] [4] IT: Empty client connection popped from the waiting queue
+[2021.10.14 17:15:15] [0219m.45s.652ms] [2] IT: STOP
+[2021.10.14 17:15:15] [0219m.45s.682ms] [4] iCDB Server PI: Executing PIM command from sub-client [1]: CDBCommand { EPIMCommand {GetPIManager} PIInfo { FESnapshotName[DxD] FETopLevelUID[2-1-5 (Block)] BESnapshotName[IC-Shelter_layout_temp]} bool {FALSE}}
+[2021.10.14 17:15:15] [0219m.45s.706ms] [5] iCDB PIM Wrapper: Executing AddPISession: PIInfo[ FESnapshotName[DxD] FETopLevelUID[2-1-5 (Block)] BESnapshotName[IC-Shelter_layout_temp]]
+[2021.10.14 17:15:15] [0219m.45s.707ms] [4] iCDB Server PI: Returning result from PIM command from sub-client [1]: CDBCommand { Index {0-3-127 (ProjectIntegration)}}
+[2021.10.14 17:15:15] [0219m.45s.707ms] [5] ET: From client [61] command executed
+[2021.10.14 17:15:15] [0219m.45s.707ms] [5] ET: To client [61] command reply: Client # ServerCommandID[178504] # ClientCommandID[178273] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2021.10.14 17:15:15] [0219m.45s.707ms] [7] SC[61]: Adding reply command to send: Client # ServerCommandID[178504] # ClientCommandID[178273] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2021.10.14 17:15:15] [0219m.45s.707ms] [7] SC[61]: Added reply command [06B66010] to send
+[2021.10.14 17:15:15] [0219m.45s.707ms] [7] CST[61]: Trying to send command [06B66010] of size [41]
+[2021.10.14 17:15:15] [0219m.45s.708ms] [7] CST[61]: Sent command [06B66010]
+[2021.10.14 17:15:15] [0219m.45s.709ms] [5] SC[61]: Received command: Server # ClientCommandID[178274] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2021.10.14 17:15:15] [0219m.45s.709ms] [5] ET: Executing client [61] command: Server # ClientCommandID[178274] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2021.10.14 17:15:15] [0219m.45s.710ms] [4] iCDB Server PI: Executing PIM command from sub-client [1]: CDBCommand { EPIMCommand {GetIndicator} Index {0-3-127 (ProjectIntegration)} EIndicatorType {BAPending}}
+[2021.10.14 17:15:15] [0219m.45s.710ms] [5] iCDB PIM Wrapper: Executing GetIndicator: PIIndex[0-3-127 (ProjectIntegration)] IndicatorType[BAPending]
+[2021.10.14 17:15:15] [0219m.45s.710ms] [4] iCDB Server PI: Returning result from PIM command from sub-client [1]: CDBCommand { bool {FALSE}}
+[2021.10.14 17:15:15] [0219m.45s.710ms] [5] ET: From client [61] command executed
+[2021.10.14 17:15:15] [0219m.45s.710ms] [5] ET: To client [61] command reply: Client # ServerCommandID[178505] # ClientCommandID[178274] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[1]
+[2021.10.14 17:15:15] [0219m.45s.710ms] [7] SC[61]: Adding reply command to send: Client # ServerCommandID[178505] # ClientCommandID[178274] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[1]
+[2021.10.14 17:15:15] [0219m.45s.710ms] [7] SC[61]: Added reply command [06B65F80] to send
+[2021.10.14 17:15:15] [0219m.45s.711ms] [7] CST[61]: Trying to send command [06B65F80] of size [37]
+[2021.10.14 17:15:15] [0219m.45s.711ms] [7] CST[61]: Sent command [06B65F80]
+[2021.10.14 17:15:15] [0219m.45s.912ms] [3] ET: Suspend request
+[2021.10.14 17:15:15] [0219m.45s.913ms] [2] ET: SUSPENDED
+[2021.10.14 17:15:15] [0219m.45s.913ms] [3] ET: Suspend request finished
+[2021.10.14 17:15:15] [0219m.45s.913ms] [2] SCL: Removing all clients
+[2021.10.14 17:15:15] [0219m.45s.913ms] [3] SC[61]: FREE
+[2021.10.14 17:15:15] [0219m.45s.914ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[070a-0e3d-12bc-4a3c-16a6-8617-6a68-6160-2d86-1615-c1d1-03fb] Command number[178506]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10002] # Client [Address[DESKTOP-ELHH89I] User[wande] PID[9940] Session[61] Status[Active] Dead elapsed time sec[0] Version[2.207] Sub-clients[ ( Sub-client[Name[DxD] Id[1]], Sub-client[Name[TransactionRollbackSubClient] Id[2]], Sub-client[Name[SymbolEditor] Id[3]], Sub-client[Name[SelectionHolder] Id[4]], Sub-client[Name[Core::DesignListener-440344976-0] Id[5]], Sub-client[Name[BlockCacheDxD:440346848] Id[6]], Sub-client[Name[Core::NetFlatData-24707] Id[7]], Sub-client[Name[SystemDesignDll] Id[9]], Sub-client[Name[DesignSearcher2] Id[10]], Sub-client[Name[HdlProject] Id[11]], Sub-client[Name[Navigator] Id[12]], Sub-client[Name[OutputWindow] Id[13]], Sub-client[Name[PlaceDevice] Id[14]], Sub-client[Name[FFSearch_RBHost] Id[15]], Sub-client[Name[LocalSymbolsDataProvider] Id[16]], Sub-client[Name[FFSSelListener] Id[17]], Sub-client[Name[DxConstraints] Id[19]], Sub-client[Name[CCZAddin] Id[20]], Sub-client[Name[DxThumbnails] Id[21]], Sub-client[Name[MyParts] Id[22]], Sub-client[Name[PinsList] Id[23]], Sub-client[Name[toolboxes] Id[24]], Sub-client[Name[IBDInstanceDialog] Id[25]], Sub-client[Name[ProjectIntegrationIcdbCacheDxD:574677032] Id[26]], Sub-client[Name[SheetConnectorsCacheDxD:1634232938] Id[27]], Sub-client[Name[NetsNamesCollectorDxD:1634232938] Id[28]], Sub-client[Name[PartReplaceUtils] Id[29]], Sub-client[Name[PartReplaceUtilsSelectionListener] Id[30]], Sub-client[Name[xprob] Id[31]], Sub-client[Name[DxDbSearch] Id[33]], Sub-client[Name[ObjectHolder_632068456] Id[34]], Sub-client[Name[BlockCacheDxD:575668224] Id[35]], Sub-client[Name[GlobalNetAliasUpdater_632069184] Id[36]], Sub-client[Name[IcdbNetProcessorSubClientDxD:631707160] Id[37]], Sub-client[Name[SAE] Id[39]])]]]
+[2021.10.14 17:15:15] [0219m.45s.915ms] [3] CRT[61]: FREE
+[2021.10.14 17:15:15] [0219m.45s.915ms] [4] CRT[61]: Waiting for finish
+[2021.10.14 17:15:15] [0219m.45s.927ms] [2] CRT[61]: STOP
+[2021.10.14 17:15:15] [0219m.45s.959ms] [3] CST[61]: FREE
+[2021.10.14 17:15:15] [0219m.45s.960ms] [4] CST[61]: Waiting for finish
+[2021.10.14 17:15:15] [0219m.45s.960ms] [2] CST[61]: STOP
+[2021.10.14 17:15:15] [0219m.45s.984ms] [1] SC[61]: WARNING: Session is still active while destroying
+[2021.10.14 17:15:15] [0219m.45s.984ms] [2] SC[61]: Disconnecting from peer
+[2021.10.14 17:15:15] [0219m.45s.985ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2021.10.14 17:15:15] [0219m.45s.985ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2021.10.14 17:15:15] [0219m.45s.986ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2000000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.986ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2000000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.986ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\8000000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.986ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\8000000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.986ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\c000000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\c000000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\e000000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\e000000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000020000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000020000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.987ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\4100000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.988ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\4100000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.988ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000010000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.988ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000010000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:15] [0219m.45s.988ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000020000050.blk\rbcatl.v]
+[2021.10.14 17:15:15] [0219m.45s.988ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000020000050.blk\rbcatl.v] doesn't exist
+[2021.10.14 17:15:16] [0219m.46s.386ms] [5] SD[1]: Received command: SvrPing @ Version[VX.2.7.0] # Id[11047]
+[2021.10.14 17:15:16] [0219m.46s.387ms] [4] DRT[1]: Dispatching command [SvrPing @ Version[VX.2.7.0] # Id[11047]]
+[2021.10.14 17:15:16] [0219m.46s.387ms] [7] SD[1]: Adding reply command to send: Ok @ Version[VX.2.7.0] # Id[11050] # Request Id [11047]
+[2021.10.14 17:15:16] [0219m.46s.387ms] [7] SD[1]: Added reply command [06B66730] to send
+[2021.10.14 17:15:16] [0219m.46s.388ms] [7] DST[1]: Trying to send command [06B66730] of size [41]
+[2021.10.14 17:15:16] [0219m.46s.388ms] [7] DST[1]: Sent command [06B66730]
+[2021.10.14 17:15:17] [0219m.47s.342ms] [5] SD[1]: Received command: SvrGetClients @ Version[VX.2.7.0] # Id[11048]
+[2021.10.14 17:15:17] [0219m.47s.343ms] [4] DRT[1]: Dispatching command [SvrGetClients @ Version[VX.2.7.0] # Id[11048]]
+[2021.10.14 17:15:17] [0219m.47s.414ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\uids]
+[2021.10.14 17:15:17] [0219m.47s.415ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s1\uids] exists
+[2021.10.14 17:15:17] [0219m.47s.421ms] [6] iCDB Storage Server: Unloading directory [C:\PADS Projects\DxProjects\IC-shelter\database\s1]
+[2021.10.14 17:15:17] [0219m.47s.422ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2000000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.422ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2000000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.422ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.422ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.422ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000020000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\2100000020000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\4100000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\4100000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\8000000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\8000000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000020000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\a100000020000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.423ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\c000000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\c000000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\e000000010000050.blk\blkatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbblks\e000000010000050.blk\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcatlg\catlgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcatlg\grpatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcatlg\grpobj]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcmpcache\cmpatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcmpcache\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcmps\cmpatl.v]
+[2021.10.14 17:15:17] [0219m.47s.424ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcmps\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.425ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.425ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.425ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2100000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2100000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2100000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2100000020000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2100000020000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\2100000020000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\4100000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\4100000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\4100000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.426ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\8000000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.427ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\8000000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.489ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\8000000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.489ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\a100000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.489ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\a100000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\a100000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\a100000020000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\a100000020000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\a100000020000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\c000000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.491ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\c000000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.491ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\c000000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.491ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\e000000010000050.blk\cesatl.v]
+[2021.10.14 17:15:17] [0219m.47s.491ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\e000000010000050.blk\cnfgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.491ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\cdbcnfgs\e000000010000050.blk\varatl.v]
+[2021.10.14 17:15:17] [0219m.47s.493ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\oryg]
+[2021.10.14 17:15:17] [0219m.47s.493ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s1\uids]
+[2021.10.14 17:15:17] [0219m.47s.493ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2021.10.14 17:15:17] [0219m.47s.493ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [2]: 0
+[2021.10.14 17:15:17] [0219m.47s.493ms] [3] iCDB Server PI: No one is using snapshot [2] - removing from cache
+[2021.10.14 17:15:17] [0219m.47s.496ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\uids]
+[2021.10.14 17:15:17] [0219m.47s.496ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\IC-shelter\database\s2\uids] exists
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading directory [C:\PADS Projects\DxProjects\IC-shelter\database\s2]
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\cdbcatlg\catlgatl.v]
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\cdbcatlg\grpatl.v]
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\cdbcatlg\grpobj]
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\cdbcmpcache\cmpatl.v]
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\cdbcmps\cmpatl.v]
+[2021.10.14 17:15:17] [0219m.47s.618ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\cdbcmps\dxdatl.v]
+[2021.10.14 17:15:17] [0219m.47s.619ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\oryg]
+[2021.10.14 17:15:17] [0219m.47s.619ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\params]
+[2021.10.14 17:15:17] [0219m.47s.619ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\IC-shelter\database\s2\uids]
+[2021.10.14 17:15:17] [0219m.47s.619ms] [5] iCDB Server PI: Snapshot [2] removed from cache
+[2021.10.14 17:15:17] [0219m.47s.619ms] [3] ET: Discarding pending commands
+[2021.10.14 17:15:17] [0219m.47s.619ms] [3] ET: Resume request
+[2021.10.14 17:15:17] [0219m.47s.619ms] [7] SD[1]: Adding reply command to send: SvrClientList @ Version[VX.2.7.0] # Id[11051] # Request Id [11048] # Clients [ ()] # Diags [ ( NetDiagData[DiagNetAddress[DESKTOP-ELHH89I] # DiagUserName[wande] # DiagProcessID[2104] # DiagID[1]])]
+[2021.10.14 17:15:17] [0219m.47s.620ms] [3] ET: Resume request finished
+[2021.10.14 17:15:17] [0219m.47s.620ms] [2] ET: RESUMED
+[2021.10.14 17:15:17] [0219m.47s.620ms] [7] SD[1]: Added reply command [03439160] to send
+[2021.10.14 17:15:17] [0219m.47s.620ms] [7] DST[1]: Trying to send command [03439160] of size [77]
+[2021.10.14 17:15:17] [0219m.47s.621ms] [7] DST[1]: Sent command [03439160]
+[2021.10.14 17:15:17] [0219m.47s.627ms] [2] PrjBackupEngine: STOP
+[2021.10.14 17:15:17] [0219m.47s.627ms] [3] PrjBackupEngine: FREE
+[2021.10.14 17:15:17] [0219m.47s.627ms] [4] PrjBackupEngine: Waiting for finish
+[2021.10.14 17:15:17] [0219m.47s.628ms] [3] ET: FREE
+[2021.10.14 17:15:17] [0219m.47s.628ms] [4] ET: Waiting for finish
+[2021.10.14 17:15:17] [0219m.47s.628ms] [2] ET: STOP
+[2021.10.14 17:15:17] [0219m.47s.628ms] [2] SCL: Stopping all send threads
+[2021.10.14 17:15:17] [0219m.47s.629ms] [3] CMT: FREE
+[2021.10.14 17:15:17] [0219m.47s.629ms] [4] CMT: Waiting for finish
+[2021.10.14 17:15:17] [0219m.47s.643ms] [2] CMT: STOP
+[2021.10.14 17:15:17] [0219m.47s.662ms] [3] DMT: FREE
+[2021.10.14 17:15:17] [0219m.47s.662ms] [4] DMT: Waiting for finish
+[2021.10.14 17:15:17] [0219m.47s.815ms] [2] DMT: STOP
+[2021.10.14 17:15:17] [0219m.47s.816ms] [3] DFAMT: FREE
+[2021.10.14 17:15:17] [0219m.47s.816ms] [4] DFAMT: Waiting for finish
+[2021.10.14 17:15:17] [0219m.47s.818ms] [2] DFAMT: Filer project path [C:\PADS Projects\DxProjects\IC-shelter\database] access monitoring ended
+[2021.10.14 17:15:17] [0219m.47s.818ms] [2] DFAMT: STOP
+[2021.10.14 17:15:17] [0219m.47s.819ms] [4] DFAMT: FINISHED
+[2021.10.14 17:15:17] [0219m.47s.819ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2021.10.14 17:15:17] [0219m.47s.819ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2021.10.14 17:15:17] [0219m.47s.834ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2021.10.14 17:15:17] [0219m.47s.834ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2021.10.14 17:15:17] [0219m.47s.835ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2021.10.14 17:15:17] [0219m.47s.835ms] [4] DMT: FINISHED
+[2021.10.14 17:15:17] [0219m.47s.835ms] [2] SCL: Removing all clients
+[2021.10.14 17:15:17] [0219m.47s.887ms] [2] iCDB Server PI: Unloading observers
+[2021.10.14 17:15:17] [0219m.47s.887ms] [2] iCDB Server PI: Observers unloaded
+[2021.10.14 17:15:17] [0219m.47s.887ms] [0] iCDB Server PI: Closing plugins
+[2021.10.14 17:15:17] [0219m.47s.887ms] [2] iCDB Server PI: Closing PIM plugin
+[2021.10.14 17:15:17] [0219m.47s.887ms] [5] iCDB PIM Wrapper: FREE
+[2021.10.14 17:15:17] [0219m.47s.976ms] [5] SD[1]: Received command: SvrPing @ Version[VX.2.7.0] # Id[11049]
+[2021.10.14 17:15:17] [0219m.47s.976ms] [4] DRT[1]: Dispatching command [SvrPing @ Version[VX.2.7.0] # Id[11049]]
+[2021.10.14 17:15:17] [0219m.47s.976ms] [7] SD[1]: Adding reply command to send: Ok @ Version[VX.2.7.0] # Id[11052] # Request Id [11049]
+[2021.10.14 17:15:17] [0219m.47s.976ms] [7] SD[1]: Added reply command [06FC23C0] to send
+[2021.10.14 17:15:17] [0219m.47s.977ms] [7] DST[1]: Trying to send command [06FC23C0] of size [41]
+[2021.10.14 17:15:17] [0219m.47s.977ms] [7] DST[1]: Sent command [06FC23C0]
+[2021.10.14 17:15:17] [0219m.48s.046ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2021.10.14 17:15:17] [0219m.48s.046ms] [5] iCDB ENetGen Wrapper: FREE
+[2021.10.14 17:15:17] [0219m.48s.107ms] [0] iCDB Server PI: Plugins closed
+[2021.10.14 17:15:17] [0219m.48s.107ms] [0] iCDB Server PI: Unloading database
+[2021.10.14 17:15:17] [0219m.48s.107ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2021.10.14 17:15:17] [0219m.48s.107ms] [6] iCDB Storage Server: Saving all modified files
+[2021.10.14 17:15:17] [0219m.48s.108ms] [7] SingleFile: [2e6a-a6f2-6f9b-3abe] RTS: switched to: [1]
+[2021.10.14 17:15:18] [0219m.48s.301ms] [0] iCDB Server PI: Saving storage
+[2021.10.14 17:15:18] [0219m.48s.301ms] [6] iCDB Storage Server: Saving all modified files
+[2021.10.14 17:15:18] [0219m.48s.301ms] [7] SingleFile: [2e6a-a6f2-6f9b-3abe] RTS: switched to: [1]
+[2021.10.14 17:15:18] [0219m.48s.301ms] [0] iCDB Server PI: Closing database
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::writing holes [17] prev [0] from [366060] 
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <35948,36075>
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <103852,110123>
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <122412,124779>
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <172204,173739>
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <181164,182827>
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <185004,185643>
+[2021.10.14 17:15:18] [0219m.48s.302ms] [7] Holes::write <188716,190251>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <192940,194155>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <200172,207275>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <210412,212075>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <212268,239915>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <243052,243179>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <243948,244075>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <244524,248939>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <259436,276139>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <339308,342699>
+[2021.10.14 17:15:18] [0219m.48s.303ms] [7] Holes::write <354988,363179>
+[2021.10.14 17:15:18] [0219m.48s.500ms] [7] Holes have been successfully saved 17 CRC [3888523041]
+[2021.10.14 17:15:18] [0219m.48s.500ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[40%] data[84%]
+[2021.10.14 17:15:18] [0219m.48s.500ms] [1] iCDB Server PI: Stats: Database file size [366200 (357.6 kB)]
+[2021.10.14 17:15:18] [0219m.48s.500ms] [7] Holes::writing holes [17] prev [17] from [366196] 
+[2021.10.14 17:15:18] [0219m.48s.500ms] [7] Holes::write <35948,36075>
+[2021.10.14 17:15:18] [0219m.48s.500ms] [7] Holes::write <103852,110123>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <122412,124779>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <172204,173739>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <181164,182827>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <185004,185643>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <188716,190251>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <192940,194155>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <200172,207275>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <210412,212075>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <212268,239915>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <243052,243179>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <243948,244075>
+[2021.10.14 17:15:18] [0219m.48s.501ms] [7] Holes::write <244524,248939>
+[2021.10.14 17:15:18] [0219m.48s.502ms] [7] Holes::write <259436,276139>
+[2021.10.14 17:15:18] [0219m.48s.502ms] [7] Holes::write <339308,342699>
+[2021.10.14 17:15:18] [0219m.48s.502ms] [7] Holes::write <354988,363179>
+[2021.10.14 17:15:18] [0219m.48s.613ms] [7] Holes have been successfully saved 17 CRC [3888523041]
+[2021.10.14 17:15:18] [0219m.48s.613ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.10.14 17:15:18] [0219m.48s.614ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2021.10.14 17:15:18] [0219m.48s.614ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2021.10.14 17:15:18] [0219m.48s.717ms] [3] iCDB Storage Server: FREE
+[2021.10.14 17:15:18] [0219m.48s.717ms] [3] iCDB Storage Server Save Thread: FREE
+[2021.10.14 17:15:18] [0219m.48s.717ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2021.10.14 17:15:18] [0219m.48s.717ms] [2] iCDB Storage Server Save Thread: STOP
+[2021.10.14 17:15:18] [0219m.48s.718ms] [3] iCDB Storage Server Backup Thread: FREE
+[2021.10.14 17:15:18] [0219m.48s.718ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2021.10.14 17:15:18] [0219m.48s.790ms] [2] iCDB Storage Server Backup Thread: STOP
+[2021.10.14 17:15:18] [0219m.48s.950ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat]
+[2021.10.14 17:15:18] [0219m.48s.950ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] restrained
+[2021.10.14 17:15:18] [0219m.48s.966ms] [0] iCDB Server PI: Database closed
+[2021.10.14 17:15:18] [0219m.48s.966ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [16374895] ticks
+[2021.10.14 17:15:18] [0219m.48s.966ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1637489] microseconds
+[2021.10.14 17:15:18] [0219m.48s.966ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1045]
+[2021.10.14 17:15:18] [0219m.48s.966ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [638] commands per second
+[2021.10.14 17:15:18] [0219m.48s.966ms] [1] iCDB Server PI: Stats: Mem[34930688]
+[2021.10.14 17:15:18] [0219m.48s.966ms] [1] iCDB Server PI: Stats: MemPeak[47124480]
+[2021.10.14 17:15:18] [0219m.48s.970ms] [0] Single file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] closed with size [366200 (357.6 kB)]
+[2021.10.14 17:15:18] [0219m.49s.066ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2021.10.14 17:15:18] [0219m.49s.066ms] [3] DRT[1]: FREE
+[2021.10.14 17:15:18] [0219m.49s.066ms] [4] DRT[1]: Waiting for finish
+[2021.10.14 17:15:18] [0219m.49s.084ms] [2] DRT[1]: STOP
+[2021.10.14 17:15:18] [0219m.49s.084ms] [3] DST[1]: FREE
+[2021.10.14 17:15:18] [0219m.49s.085ms] [4] DST[1]: Waiting for finish
+[2021.10.14 17:15:18] [0219m.49s.085ms] [2] DST[1]: EXIT graceful
+[2021.10.14 17:15:18] [0219m.49s.085ms] [2] DST[1]: STOP
+[2021.10.14 17:15:18] [0219m.49s.086ms] [3] SD[1]: FREE
+[2021.10.14 17:15:18] [0219m.49s.086ms] [1] SD[1]: WARNING: Session is still active while destroying
+[2021.10.14 17:15:18] [0219m.49s.086ms] [7] SD[1]: Sending logout notify: SvrNotifyLogout @ Version[VX.2.7.0] # Id[11053]
+[2021.10.14 17:15:18] [0219m.49s.086ms] [2] SD[1]: Disconnecting from peer
+[2021.10.14 17:15:18] [0219m.49s.088ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin\..\lib\ENetGen70.dll]
+[2021.10.14 17:15:19] [0219m.49s.692ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin\..\lib\PIM.dll]
+[2021.10.14 17:15:21] [0219m.51s.578ms] [3] ST: FREE
+[2021.10.14 17:15:21] [0219m.51s.578ms] [4] ST: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.578ms] [2] ST: STOP
+[2021.10.14 17:15:21] [0219m.51s.579ms] [3] MET: FREE
+[2021.10.14 17:15:21] [0219m.51s.579ms] [4] MET: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.580ms] [2] MET: STOP
+[2021.10.14 17:15:21] [0219m.51s.580ms] [3] MCE: FREE
+[2021.10.14 17:15:21] [0219m.51s.580ms] [3] ELMT: FREE
+[2021.10.14 17:15:21] [0219m.51s.580ms] [4] ELMT: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.581ms] [2] ELMT: STOP
+[2021.10.14 17:15:21] [0219m.51s.582ms] [3] EventLogDataFile: EventLog data file [C:\PADS Projects\DxProjects\IC-shelter\database\cdbsvr\events\events.dat] closed
+[2021.10.14 17:15:21] [0219m.51s.582ms] [3] EventLogIndexFile: EventLog index file [C:\PADS Projects\DxProjects\IC-shelter\database\cdbsvr\events\events.idx] closed
+[2021.10.14 17:15:21] [0219m.51s.582ms] [4] ELMT: FINISHED
+[2021.10.14 17:15:21] [0219m.51s.583ms] [3] AT: FREE
+[2021.10.14 17:15:21] [0219m.51s.583ms] [4] AT: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.636ms] [2] AT: Removing server address file [C:\PADS Projects\DxProjects\IC-shelter\database\cdbsvr\sAddress.adr]
+[2021.10.14 17:15:21] [0219m.51s.636ms] [0] AT: ERROR: Could not remove server address file [C:\PADS Projects\DxProjects\IC-shelter\database\cdbsvr\sAddress.adr]
+[2021.10.14 17:15:21] [0219m.51s.636ms] [2] AT: STOP
+[2021.10.14 17:15:21] [0219m.51s.637ms] [3] BT: FREE
+[2021.10.14 17:15:21] [0219m.51s.637ms] [4] BT: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.668ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[070a-0e3d-12bc-4a3c-16a6-8617-6a68-6160-2d86-1615-c1d1-03fb] Command number[178509]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[cef9-97e0-f12f-35d2-4684-a51a-684a-5160-29eb-69f7-0532-a38b] Address[Host[DESKTOP-ELHH89I] Port[10002]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[C:\PADS Projects\DxProjects\IC-shelter\database] ReadOnly[FALSE] Server GUID[070a-0e3d-12bc-4a3c-16a6-8617-6a68-6160-2d86-1615-c1d1-03fb]] # Status [Shutdown]
+[2021.10.14 17:15:21] [0219m.51s.670ms] [2] BT: STOP
+[2021.10.14 17:15:21] [0219m.51s.671ms] [3] MWT: FREE
+[2021.10.14 17:15:21] [0219m.51s.671ms] [4] MWT: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.671ms] [0] MWT: Destroy the shutdown block reason.
+[2021.10.14 17:15:21] [0219m.51s.676ms] [0] MWT: STOP
+[2021.10.14 17:15:21] [0219m.51s.677ms] [0] S: STOP
+[2021.10.14 17:15:21] [0219m.51s.677ms] [3] S: FREE
+[2021.10.14 17:15:21] [0219m.51s.677ms] [3] S: FREE: Server implementation
+[2021.10.14 17:15:21] [0219m.51s.677ms] [3] CLSVRM: FREE
+[2021.10.14 17:15:21] [0219m.51s.677ms] [3] SDSM: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [3] SDL: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [3] SCL: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [6] SSM: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [3] SMCL: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [3] SS: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [3] SM: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [3] SingleMessageSender: Send thread: FREE
+[2021.10.14 17:15:21] [0219m.51s.678ms] [4] SingleMessageSender: Send thread: Waiting for finish
+[2021.10.14 17:15:21] [0219m.51s.679ms] [2] SingleMessageSender: Send thread: STOP
+[2021.10.14 17:15:21] [0219m.51s.680ms] [4] SingleMessageSender: Send thread: FINISHED
+[2021.10.14 17:15:21] [0219m.51s.680ms] [3] SCQ: FREE
+[2021.10.14 17:15:21] [0219m.51s.680ms] [3] MCQ: FREE

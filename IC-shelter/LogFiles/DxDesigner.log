@@ -12,3 +12,29 @@ ICDB server [critical]: Server stopping: Requesting emergency server stop: Syste
 DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
 DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
 ICDB server [info]: [AutoSave] backup of size [102.0 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-04 18.31.55 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [164.7 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-07 09.35.10 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [193.4 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-07 13.41.10 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [204.5 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-07 20.37.14 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [267.6 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-11 18.11.12 - auto.zip]
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+ICDB server [info]: [AutoSave] backup of size [271.9 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-14 12.18.24 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [277.6 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-14 16.18.24 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [283.6 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-18 14.52.10 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [287.5 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-18 19.00.49 - auto.zip]

@@ -1,0 +1,224 @@
+[2021.10.25 19:17:43] [0000m.00s.342ms] [0] WELCOME
+[2021.10.25 19:17:44] [0000m.00s.473ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.25 19:17:44] [0000m.00s.473ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.25 19:17:44] [0000m.00s.473ms] [1] Base flow version [VX.2.7]
+[2021.10.25 19:17:44] [0000m.00s.474ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.25 19:17:44] [0000m.00s.474ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.25 19:17:44] [0000m.00s.848ms] [1] Machine [DESKTOP-ELHH89I]  IP [127.0.0.1,192.168.56.1,192.168.95.65]  User [wande]  PID [9008]
+[2021.10.25 19:17:44] [0000m.00s.848ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.10.25 19:17:44] [0000m.00s.848ms] [1] Current working dir [C:\PADS Projects\DxProjects\IC-shelter]
+[2021.10.25 19:17:44] [0000m.00s.849ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\wande\AppData\Local\Microsoft\WindowsApps;C:\Users\wande\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.10.25 19:17:44] [0000m.00s.849ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.25 19:17:44] [0000m.00s.850ms] [1] SDD_PLATFORM [win32]
+[2021.10.25 19:17:44] [0000m.00s.850ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.25 19:17:44] [0000m.00s.850ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.25 19:17:44] [0000m.00s.876ms] [2] S: Loading config files
+[2021.10.25 19:17:44] [0000m.01s.073ms] [1] Config file [C:\PADS Projects\DxProjects\IC-shelter\database\cdbsvr\Server.cfg] not found
+[2021.10.25 19:17:44] [0000m.01s.083ms] [3] S: Config loaded
+[2021.10.25 19:17:44] [0000m.01s.298ms] [0] S: Project path [C:\PADS Projects\DxProjects\IC-shelter\database] on file system [NTFS]
+[2021.10.25 19:17:44] [0000m.01s.298ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\IC-shelter\IC-shelter.prj] on file system [NTFS]
+[2021.10.25 19:17:44] [0000m.01s.299ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.10.25 19:17:44] [0000m.01s.299ms] [0] S: Single-user mode (auto)
+[2021.10.25 19:17:44] [0000m.01s.300ms] [0] S: Event polling mode autodetection
+[2021.10.25 19:17:44] [0000m.01s.359ms] [0] S: Started up automatically by iCDB Client: DESKTOP-ELHH89I:wande:8300
+[2021.10.25 19:17:44] [0000m.01s.359ms] [0] S: Auto close mode
+[2021.10.25 19:17:44] [0000m.01s.359ms] [0] S: Database ID [cef9-97e0-f12f-35d2-4684-a51a-684a-5160-29eb-69f7-0532-a38b]
+[2021.10.25 19:17:44] [0000m.01s.360ms] [0] PathTranslator: BEGIN dumping
+[2021.10.25 19:17:44] [0000m.01s.360ms] [0] PathTranslator: Local -> global path prefix list
+[2021.10.25 19:17:44] [0000m.01s.360ms] [0] PathTranslator: Global -> local path prefix list
+[2021.10.25 19:17:44] [0000m.01s.360ms] [0] PathTranslator: END dumping
+[2021.10.25 19:17:44] [0000m.01s.360ms] [0] S: START
+[2021.10.25 19:17:44] [0000m.01s.363ms] [0] S: Server startup lock file created
+[2021.10.25 19:17:45] [0000m.01s.373ms] [0] S: Listening for client connections on port [10001]
+[2021.10.25 19:17:45] [0000m.01s.377ms] [0] S: Server network ID [DESKTOP-ELHH89I:192.168.56.1,192.168.95.65,DESKTOP-ELHH89I:10001]
+[2021.10.25 19:17:45] [0000m.01s.378ms] [0] S: Server GUID [6c89-71f8-6096-8b30-81b3-771e-1b37-7160-bb3a-3958-4532-a38b]
+[2021.10.25 19:17:45] [0000m.01s.378ms] [0] S: Project GUID [cef9-97e0-f12f-35d2-4684-a51a-684a-5160-29eb-69f7-0532-a38b]
+[2021.10.25 19:17:45] [0000m.01s.419ms] [0] S: Wrote data to server address file
+[2021.10.25 19:17:45] [0000m.01s.421ms] [0] S: Server startup lock file removed
+[2021.10.25 19:17:45] [0000m.01s.461ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\IC-shelter\IC-shelter.prj]
+[2021.10.25 19:17:50] [0000m.06s.503ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.10.25 19:17:50] [0000m.06s.504ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.10.25 19:17:50] [0000m.06s.505ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.10.25 19:17:50] [0000m.06s.522ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.10.25 19:17:50] [0000m.06s.522ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.10.25 19:17:50] [0000m.06s.523ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.10.25 19:17:50] [0000m.06s.538ms] [0] S: Local disc access time: 303 us
+[2021.10.25 19:17:50] [0000m.06s.538ms] [0] S: File server access time: 430 us
+[2021.10.25 19:17:50] [0000m.06s.862ms] [0] Single file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] size [267152 (260.9 kB)]
+[2021.10.25 19:17:50] [0000m.06s.863ms] [1] Single file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] opened in read-write mode
+[2021.10.25 19:17:50] [0000m.06s.900ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.25 19:17:50] [0000m.06s.901ms] [0] Database GUARD OK: [267152]
+[2021.10.25 19:17:50] [0000m.06s.955ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.25 19:17:50] [0000m.06s.956ms] [0] Database GUARD OK: [267152]
+[2021.10.25 19:17:50] [0000m.06s.957ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.25 19:17:50] [0000m.06s.957ms] [0] Database GUARD OK: [267152]
+[2021.10.25 19:17:50] [0000m.06s.958ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.25 19:17:50] [0000m.06s.958ms] [0] Database GUARD OK: [267152]
+[2021.10.25 19:17:50] [0000m.06s.975ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.25 19:17:50] [0000m.06s.976ms] [0] Database GUARD OK: [267152]
+[2021.10.25 19:17:50] [0000m.06s.976ms] [0] SingleFile: [2e6a-a6f2-6f9b-3abe] SFI version check [1009] [1009]
+[2021.10.25 19:17:50] [0000m.07s.004ms] [0] SingleFile: [2e6a-a6f2-6f9b-3abe] Database SFI header has been read in [29ms 58us]
+[2021.10.25 19:17:50] [0000m.07s.067ms] [0] iCDB Server PI: Server & plugin session [88]
+[2021.10.25 19:17:50] [0000m.07s.067ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\IC-shelter\database]
+[2021.10.25 19:17:50] [0000m.07s.071ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\IC-shelter\database] opened
+[2021.10.25 19:17:51] [0000m.07s.917ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.10.25 19:17:51] [0000m.07s.917ms] [0] iCDB Database: Checking constraint definitions version
+[2021.10.25 19:17:51] [0000m.08s.285ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.10.25 19:17:51] [0000m.08s.354ms] [0] iCDB Server PI: Initializing plugins
+[2021.10.25 19:17:51] [0000m.08s.370ms] [0] iCDB Server PI: Plugins initialized
+[2021.10.25 19:17:51] [0000m.08s.371ms] [0] S: iCDB database loaded
+[2021.10.25 19:17:52] [0000m.08s.386ms] [0] S: Starting threads
+[2021.10.25 19:17:52] [0000m.08s.394ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.10.25 19:17:52] [0000m.08s.404ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.10.25 19:17:52] [0000m.08s.407ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.10.25 19:17:52] [0000m.08s.463ms] [0] IT: Session [89] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [8300] created
+[2021.10.25 19:17:52] [0000m.08s.517ms] [1] CMT: There are [1] clients now: 89
+[2021.10.25 19:17:52] [0000m.08s.675ms] [1] SC[89]: Registered sub-client [DxD] with ID [1] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:52] [0000m.09s.028ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.10.25 19:17:52] [0000m.09s.041ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-ELHH89I] user [wande] with process ID [916] created
+[2021.10.25 19:17:54] [0000m.11s.053ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-25 19.17.52 - auto.zip] with GUID [6e5b-0145-3c9e-ba6d-02b3-7716-2b37-7160-34fa-3958-4532-a38b]
+[2021.10.25 19:17:54] [0000m.11s.129ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[c64e-8c58-6a0c-d86b-a52c-d610-62cd-6160-6d18-1615-c1d1-03fb] CreationTime[Monday, October 18, 2021 18:52:10] Type[Autosave] Creator[iCDB Server (2021-10-18 14.52.01-11700)] ApplicationName[iCDB Server (2021-10-18 14.52.01-11700)] UserName[wande] MachineName[DESKTOP-ELHH89I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-18 14.52.10 - auto.zip] BackupFileSize[290418] Persistent[FALSE]
+[2021.10.25 19:17:54] [0000m.11s.153ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-18 14.52.10 - auto.zip] with GUID [c64e-8c58-6a0c-d86b-a52c-d610-62cd-6160-6d18-1615-c1d1-03fb] removed
+[2021.10.25 19:17:54] [0000m.11s.312ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[6e5b-0145-3c9e-ba6d-02b3-7716-2b37-7160-34fa-3958-4532-a38b] CreationTime[Monday, October 25, 2021 23:17:52] Type[Autosave] Creator[iCDB Server (2021-10-25 19.17.43-9008)] ApplicationName[iCDB Server (2021-10-25 19.17.43-9008)] UserName[wande] MachineName[DESKTOP-ELHH89I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-25 19.17.52 - auto.zip] BackupFileSize[290995] Persistent[FALSE]
+[2021.10.25 19:17:55] [0000m.11s.473ms] [1] SC[89]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:55] [0000m.11s.872ms] [1] SC[89]: Registered sub-client [SymbolEditor] with ID [3] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:55] [0000m.11s.934ms] [1] SC[89]: Registered sub-client [SelectionHolder] with ID [4] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:56] [0000m.12s.707ms] [1] SC[89]: Registered sub-client [Core::DesignListener-321075904-0] with ID [5] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:56] [0000m.12s.877ms] [1] SC[89]: Registered sub-client [BlockCacheDxD:321076192] with ID [6] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:56] [0000m.12s.892ms] [1] SC[89]: Registered sub-client [Core::NetFlatData-19666] with ID [7] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:57] [0000m.13s.526ms] [1] SC[89]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:57] [0000m.13s.644ms] [1] SC[89]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:17:57] [0000m.13s.658ms] [1] SC[89]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:14] [0000m.31s.238ms] [1] SC[89]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:14] [0000m.31s.351ms] [1] SC[89]: Registered sub-client [HdlProject] with ID [11] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:15] [0000m.31s.404ms] [1] SC[89]: Registered sub-client [Navigator] with ID [12] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:15] [0000m.31s.515ms] [1] SC[89]: Registered sub-client [OutputWindow] with ID [13] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:15] [0000m.31s.531ms] [1] SC[89]: Registered sub-client [PlaceDevice] with ID [14] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:16] [0000m.33s.308ms] [1] SC[89]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:16] [0000m.33s.327ms] [1] SC[89]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:25] [0000m.42s.037ms] [1] SC[89]: Registered sub-client [FFSSelListener] with ID [17] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:25] [0000m.42s.061ms] [1] SC[89]: Registered sub-client [SAE] with ID [18] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:25] [0000m.42s.098ms] [0] DFAMT: File server access time: 385 us
+[2021.10.25 19:18:25] [0000m.42s.225ms] [1] SC[89]: Registered sub-client [DxConstraints] with ID [19] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:25] [0000m.42s.242ms] [1] SC[89]: Registered sub-client [CCZAddin] with ID [20] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:25] [0000m.42s.257ms] [1] SC[89]: Registered sub-client [DxThumbnails] with ID [21] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:25] [0000m.42s.274ms] [1] SC[89]: Registered sub-client [MyParts] with ID [22] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:26] [0000m.42s.440ms] [1] SC[89]: Registered sub-client [PinsList] with ID [23] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:27] [0000m.43s.518ms] [1] SC[89]: Registered sub-client [toolboxes] with ID [24] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:27] [0000m.44s.216ms] [1] SC[89]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:28] [0000m.44s.437ms] [1] SC[89]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:320016392] with ID [26] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:28] [0000m.45s.210ms] [1] SC[89]: Registered sub-client [SheetConnectorsCacheDxD:1635203908] with ID [27] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:29] [0000m.45s.768ms] [1] SC[89]: Registered sub-client [NetsNamesCollectorDxD:1635203909] with ID [28] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:29] [0000m.46s.247ms] [1] SC[89]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:29] [0000m.46s.264ms] [1] SC[89]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:30] [0000m.46s.419ms] [1] SC[89]: Registered sub-client [xprob] with ID [31] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:31] [0000m.47s.445ms] [1] SC[89]: Registered sub-client [StartServerClientf30] with ID [32] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:31] [0000m.47s.547ms] [1] SC[89]: UnRegistered sub-client [StartServerClientf30] with ID [32] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:18:53] [0001m.09s.959ms] [0] IT: Session [90] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [2552] created
+[2021.10.25 19:18:53] [0001m.10s.017ms] [1] CMT: There are [2] clients now: 89, 90
+[2021.10.25 19:18:53] [0001m.10s.023ms] [1] SC[90]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [90] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:18:54] [0001m.10s.552ms] [1] SC[90]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [90] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:18:54] [0001m.10s.733ms] [1] CMT: Removed client [90]
+[2021.10.25 19:18:54] [0001m.10s.733ms] [1] CMT: There are [1] clients now: 89
+[2021.10.25 19:19:36] [0001m.53s.005ms] [0] IT: Session [91] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [2552] created
+[2021.10.25 19:19:36] [0001m.53s.008ms] [1] SC[91]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [91] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:19:36] [0001m.53s.034ms] [1] CMT: There are [2] clients now: 89, 91
+[2021.10.25 19:19:47] [0002m.03s.730ms] [0] IT: Session [92] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [6796] created
+[2021.10.25 19:19:47] [0002m.03s.744ms] [1] SC[92]: Registered sub-client [icdb2wir] with ID [1] for session ID [92] host [DESKTOP-ELHH89I] user [wande] process ID [6796]
+[2021.10.25 19:19:47] [0002m.03s.768ms] [1] CMT: There are [3] clients now: 89, 91, 92
+[2021.10.25 19:19:50] [0002m.07s.300ms] [1] SC[92]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [92] host [DESKTOP-ELHH89I] user [wande] process ID [6796]
+[2021.10.25 19:19:50] [0002m.07s.334ms] [1] CMT: Removed client [92]
+[2021.10.25 19:19:50] [0002m.07s.335ms] [1] CMT: There are [2] clients now: 89, 91
+[2021.10.25 19:20:24] [0002m.40s.584ms] [0] IT: Session [93] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [11084] created
+[2021.10.25 19:20:24] [0002m.40s.676ms] [1] SC[93]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:24] [0002m.40s.690ms] [1] CMT: There are [3] clients now: 89, 91, 93
+[2021.10.25 19:20:27] [0002m.43s.701ms] [1] SC[93]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:27] [0002m.43s.890ms] [1] SC[93]: Registered sub-client [ObjectHolder_146978968] with ID [3] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:27] [0002m.43s.920ms] [1] SC[93]: Registered sub-client [BlockCacheDxD:132685400] with ID [4] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:27] [0002m.43s.962ms] [1] SC[93]: Registered sub-client [GlobalNetAliasUpdater_146978864] with ID [5] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:27] [0002m.43s.997ms] [1] SC[93]: Registered sub-client [IcdbNetProcessorSubClientDxD:150457952] with ID [6] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:29] [0002m.46s.293ms] [1] SC[93]: UnRegistered sub-client [GlobalNetAliasUpdater_146978864] with ID [5] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:29] [0002m.46s.296ms] [1] SC[93]: UnRegistered sub-client [BlockCacheDxD:132685400] with ID [4] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:29] [0002m.46s.299ms] [1] SC[93]: UnRegistered sub-client [ObjectHolder_146978968] with ID [3] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:29] [0002m.46s.302ms] [1] SC[93]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:150457952] with ID [6] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:29] [0002m.46s.307ms] [1] SC[93]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:30] [0002m.46s.430ms] [1] SC[93]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [93] host [DESKTOP-ELHH89I] user [wande] process ID [11084]
+[2021.10.25 19:20:30] [0002m.46s.465ms] [1] CMT: Removed client [93]
+[2021.10.25 19:20:30] [0002m.46s.465ms] [1] CMT: There are [2] clients now: 89, 91
+[2021.10.25 19:20:32] [0002m.49s.013ms] [1] SC[91]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [91] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:20:32] [0002m.49s.110ms] [1] CMT: Removed client [91]
+[2021.10.25 19:20:32] [0002m.49s.110ms] [1] CMT: There are [1] clients now: 89
+[2021.10.25 19:20:32] [0002m.49s.363ms] [0] IT: Session [94] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [2552] created
+[2021.10.25 19:20:32] [0002m.49s.368ms] [1] SC[94]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [94] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:20:33] [0002m.49s.472ms] [1] CMT: There are [2] clients now: 89, 94
+[2021.10.25 19:20:33] [0002m.50s.057ms] [1] SC[94]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [94] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:20:33] [0002m.50s.132ms] [1] CMT: Removed client [94]
+[2021.10.25 19:20:33] [0002m.50s.133ms] [1] CMT: There are [1] clients now: 89
+[2021.10.25 19:20:43] [0002m.59s.814ms] [0] IT: Session [95] for host [DESKTOP-ELHH89I] user [wande] client type[0] clsvrPluginID[0] with process ID [2552] created
+[2021.10.25 19:20:43] [0002m.59s.827ms] [1] SC[95]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [95] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:20:43] [0002m.59s.879ms] [1] CMT: There are [2] clients now: 89, 95
+[2021.10.25 19:20:44] [0003m.00s.489ms] [1] SC[95]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [95] host [DESKTOP-ELHH89I] user [wande] process ID [2552]
+[2021.10.25 19:20:44] [0003m.00s.537ms] [1] CMT: Removed client [95]
+[2021.10.25 19:20:44] [0003m.00s.538ms] [1] CMT: There are [1] clients now: 89
+[2021.10.25 19:23:22] [0005m.39s.206ms] [1] SC[89]: Registered sub-client [ObjectHolder_594729744] with ID [33] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:23:22] [0005m.39s.293ms] [1] SC[89]: Registered sub-client [BlockCacheDxD:565358448] with ID [34] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:23:22] [0005m.39s.331ms] [1] SC[89]: Registered sub-client [GlobalNetAliasUpdater_594730264] with ID [35] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:23:23] [0005m.39s.383ms] [1] SC[89]: Registered sub-client [IcdbNetProcessorSubClientDxD:596811488] with ID [36] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:33] [0018m.49s.843ms] [1] SC[89]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:33] [0018m.50s.326ms] [1] SC[89]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:35] [0018m.51s.771ms] [1] SC[89]: UnRegistered sub-client [GlobalNetAliasUpdater_594730264] with ID [35] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:35] [0018m.51s.774ms] [1] SC[89]: UnRegistered sub-client [BlockCacheDxD:565358448] with ID [34] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:35] [0018m.51s.775ms] [1] SC[89]: UnRegistered sub-client [ObjectHolder_594729744] with ID [33] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:35] [0018m.51s.811ms] [1] SC[89]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:596811488] with ID [36] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:35] [0018m.51s.883ms] [1] SC[89]: UnRegistered sub-client [Navigator] with ID [12] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:35] [0018m.51s.907ms] [1] SC[89]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:37] [0018m.53s.831ms] [1] SC[89]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:38] [0018m.54s.861ms] [1] SC[89]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:38] [0018m.55s.114ms] [1] SC[89]: UnRegistered sub-client [MyParts] with ID [22] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:38] [0018m.55s.117ms] [1] SC[89]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.55s.639ms] [1] SC[89]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.55s.641ms] [1] SC[89]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.55s.642ms] [1] SC[89]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.073ms] [1] SC[89]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:320016392] with ID [26] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.088ms] [1] SC[89]: UnRegistered sub-client [Core::NetFlatData-19666] with ID [7] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.090ms] [1] SC[89]: UnRegistered sub-client [BlockCacheDxD:321076192] with ID [6] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.091ms] [1] SC[89]: UnRegistered sub-client [Core::DesignListener-321075904-0] with ID [5] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.095ms] [1] SC[89]: UnRegistered sub-client [SheetConnectorsCacheDxD:1635203908] with ID [27] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.096ms] [1] SC[89]: UnRegistered sub-client [NetsNamesCollectorDxD:1635203909] with ID [28] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.136ms] [1] SC[89]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.138ms] [1] SC[89]: UnRegistered sub-client [DxD] with ID [1] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.336ms] [1] SC[89]: UnRegistered sub-client [xprob] with ID [31] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:39] [0018m.56s.338ms] [1] SC[89]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:40] [0018m.56s.511ms] [1] SC[89]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:40] [0018m.56s.611ms] [1] SC[89]: UnRegistered sub-client [SAE] with ID [18] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:40] [0018m.56s.790ms] [1] SC[89]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:36:40] [0018m.56s.815ms] [1] SC[89]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:37:19] [0019m.35s.487ms] [1] SC[89]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:37:19] [0019m.35s.906ms] [1] SC[89]: UnRegistered sub-client [PinsList] with ID [23] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:37:20] [0019m.36s.424ms] [1] SC[89]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:37:20] [0019m.36s.810ms] [1] SC[89]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:37:20] [0019m.36s.892ms] [1] SC[89]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [89] host [DESKTOP-ELHH89I] user [wande] process ID [8300]
+[2021.10.25 19:37:20] [0019m.36s.952ms] [1] CMT: Removed client [89]
+[2021.10.25 19:37:20] [0019m.36s.953ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.10.25 19:37:20] [0019m.37s.080ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.10.25 19:37:22] [0019m.38s.382ms] [0] CMT: Starting server auto-close
+[2021.10.25 19:37:22] [0019m.38s.443ms] [0] S: Closing server
+[2021.10.25 19:37:22] [0019m.38s.567ms] [0] iCDB Server PI: Closing plugins
+[2021.10.25 19:37:22] [0019m.38s.583ms] [0] iCDB Server PI: Plugins closed
+[2021.10.25 19:37:22] [0019m.38s.583ms] [0] iCDB Server PI: Unloading database
+[2021.10.25 19:37:22] [0019m.38s.602ms] [0] iCDB Server PI: Saving storage
+[2021.10.25 19:37:22] [0019m.38s.602ms] [0] iCDB Server PI: Closing database
+[2021.10.25 19:37:22] [0019m.38s.673ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[6%] data[95%]
+[2021.10.25 19:37:22] [0019m.38s.673ms] [1] iCDB Server PI: Stats: Database file size [267152 (260.9 kB)]
+[2021.10.25 19:37:22] [0019m.38s.835ms] [0] iCDB Server PI: Database closed
+[2021.10.25 19:37:22] [0019m.38s.835ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1513063] ticks
+[2021.10.25 19:37:22] [0019m.38s.835ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [151306] microseconds
+[2021.10.25 19:37:22] [0019m.38s.835ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [40]
+[2021.10.25 19:37:22] [0019m.38s.836ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [264] commands per second
+[2021.10.25 19:37:22] [0019m.38s.836ms] [1] iCDB Server PI: Stats: Mem[33853440]
+[2021.10.25 19:37:22] [0019m.38s.836ms] [1] iCDB Server PI: Stats: MemPeak[44015616]
+[2021.10.25 19:37:22] [0019m.39s.037ms] [0] Single file [C:\PADS Projects\DxProjects\IC-shelter\database\icdb.dat] closed with size [267152 (260.9 kB)]
+[2021.10.25 19:37:22] [0019m.39s.147ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.10.25 19:37:23] [0019m.40s.186ms] [0] MWT: Destroy the shutdown block reason.
+[2021.10.25 19:37:23] [0019m.40s.189ms] [0] MWT: STOP
+[2021.10.25 19:37:23] [0019m.40s.191ms] [0] S: STOP

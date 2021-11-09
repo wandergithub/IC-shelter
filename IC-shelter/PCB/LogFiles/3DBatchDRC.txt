@@ -1,0 +1,12 @@
+				3D Batch DRC
+				------------
+
+		  01:21:03 PM Monday, November 08, 2021
+
+Info: 3D Batch DRC executed on the entire design
+
+
+Total DRC Hazards Found : 0
+
+
+		  01:21:03 PM Monday, November 08, 2021

@@ -1,0 +1,16 @@
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Warning 5726: Net INPUT_2_MICRO connects to multiple pins of symbol FUB127
+pcb: Note 6085: Top pkg U11: 2 empty slot(s), device ULN2003A_SOIC16
+pcb: Warning 6083: Top pin $1I23\$1I126\$1I113.CATODE: Single pin net: $1I23\IN1+
+pcb: Warning 6083: Top pin $1I23\$1I128\$1I153.PTD5: Single pin net: $1I23\$1N173
+pcb: Warning 6083: Top pin $1I44.PIN1: Single pin net: $1N95
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 0, Notes 2, Warnings 12
+Errors 0, Failures 0, Fatals 0, Internals 0

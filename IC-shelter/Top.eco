@@ -1,0 +1,199 @@
+*PADS-ECO-V10.0-MILS*
+*REMARK*  old file: C:\PADS Projects\DxProjects\IC-shelter\PCB\IC-Shelt01.asc
+*REMARK*  new file: C:\PADS Projects\DxProjects\IC-shelter\Top.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 25/10/2021 7:20:36 p. m.
+*CHGPART*
+F1  FUSE-STD@FUSE-STD  FUSE-STD@1206MIL
+F2  FUSE-STD@FUSE-STD  FUSE-STD@1206MIL
+TVS2  TVS@DO-214AC  TVS@0805
+*NET*
+*SIGNAL*  $1I23\$1N173
+U10.18
+*SIGNAL*  $1I23\IN1+
+U4.2
+*SIGNAL*  $1N95
+J6.1
+*DEL_ATTRIBUTE*	PCB	DEFAULT
+"Blaze.TestPoint.Color"
+"Blaze.Thermal.Color"
+"CAM.Apply Oversize To All Pads"
+"Guard.BandColor"
+*DEL_ATTRIBUTE*	PART	K1
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K2
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K3
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K4
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K5
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	C1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C11
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C12
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C24
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C10
+"Geometry.Height"
+"IPC_VERSION"
+"POLARITY"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	U4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D11
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D17
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D9
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R21
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R22
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R49
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R50
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R17
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R18
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R19
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R23
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R24
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R25
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R26
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R27
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R28
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R29
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R30
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R31
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R32
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R33
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R34
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R36
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R37
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R38
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R39
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R40
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R41
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R42
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R43
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R44
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R45
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R46
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R47
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R48
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R51
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R52
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R53
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	TVS2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	TVS3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U11
+"Geometry.Height"
+
+*REMARK*  Deleted pins: 0,  Added pins: 3
+*END*

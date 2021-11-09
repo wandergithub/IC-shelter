@@ -1,0 +1,26 @@
+SEVERITY: Error
+  GROUP: Interconnectivity : 22 Error(s)
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\power_supply\$1I429, pin: IN-] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\control\$1I181, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\control\$1I153, pin: VSS/VSSA] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\control\$1I153, pin: VSS2] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\rs485\$1I26, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\rs485-LCD\$1I54, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC-shelter\rs485-LCD\$1I51, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC-shelter\power_supply\$1I429, pin: IN+] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC-shelter\control\$1I153, pin: VDDA] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC-shelter\control\$1I153, pin: VDD2] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC-shelter\control\$1I153, pin: VDD] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC-shelter\rs485\$1I26, pin: VCC] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC-shelter\rs485-LCD\$1I51, pin: VCC] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : GND, component: IC-shelter\power_supply\$1I407, pin: -Vo] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : GND, component: IC-shelter\rs485-LCD\$1I51, pin: GND] OUT pin connected to Power pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\power_supply\$1I407, pin: -Vo] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\power_supply\$1I429, pin: IN-] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\control\$1I181, pin: GND] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\control\$1I153, pin: VSS/VSSA] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\control\$1I153, pin: VSS2] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\rs485\$1I26, pin: GND] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC-shelter\rs485-LCD\$1I54, pin: GND] Power pin connected to Ground pin
+
+22 Error(s), 0 Warning(s), 0 Note(s), 
