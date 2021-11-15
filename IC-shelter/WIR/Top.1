@@ -81,6 +81,15 @@ AP Connectors:CON-2EDGCR-5_0-8P 7 #=7
 AP Connectors:CON-2EDGCR-5_0-8P 7 PINTYPE=ANALOG
 AP Connectors:CON-2EDGCR-5_0-8P 8 #=8
 AP Connectors:CON-2EDGCR-5_0-8P 8 PINTYPE=ANALOG
+|Q Mechanical:hole_victoria 1
+AS Mechanical:hole_victoria REFDES=H?
+AS Mechanical:hole_victoria DEVICE=HOLE_VICTORIA_4_5MM
+AS Mechanical:hole_victoria PARTS=1
+AS Mechanical:hole_victoria PKG_TYPE=HOLE_VICTORIA
+AS Mechanical:hole_victoria LEVEL=STD
+AS Mechanical:hole_victoria DESCRIPTION=Hole4.5mm
+AS Mechanical:hole_victoria PART_NUMBER=HOLE
+AS Mechanical:hole_victoria INOV_VER_REC=4:12:12_4-16-18
 G +12V
 G +5.0V
 G AGND
@@ -132,4 +141,10 @@ API $1I74 Connectors:CON-2EDGCR-5_0-8P 5 #=5
 API $1I74 Connectors:CON-2EDGCR-5_0-8P 6 #=6
 API $1I74 Connectors:CON-2EDGCR-5_0-8P 7 #=7
 API $1I74 Connectors:CON-2EDGCR-5_0-8P 8 #=8
+M Mechanical:hole_victoria $1I161
+I $1I161 Mechanical:hole_victoria REFDES=H?`
+|R 4:12:12_4-16-18
+M Mechanical:hole_victoria $1I163
+I $1I163 Mechanical:hole_victoria REFDES=H?`
+|R 4:12:12_4-16-18
 EW

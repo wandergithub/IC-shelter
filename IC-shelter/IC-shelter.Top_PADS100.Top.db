@@ -457,6 +457,18 @@
 						(attval "REFDES" "D?"))))
 			(pin 1  5 "LED_SMD_RED__LED_SMD_RED_1" 0 "C" 0)
 			(pin 2  5 "LED_SMD_RED__LED_SMD_RED_1" 0 "A" 0))
+		(part "HOLE_VICTORIA_4_5MM")
+		(logical_part_mapping "HOLE_VICTORIA_4_5MM"
+			(comp "H2" "H1"))
+		(logical_part "HOLE_VICTORIA_4_5MM"
+			(slots
+				(slot "HOLE_VICTORIA__HOLE_VICTORIA_4_5MM_1"
+					(attributes
+						(attval "Description" "HOLE 4.5MM")
+						(attval "DEVICE" "HOLE_VICTORIA_4_5MM")
+						(attval "Part Number" "HOLE")
+						(attval "PKG_TYPE" "HOLE_VICTORIA")
+						(attval "REFDES" "H?")))))
 		(part "HLK-PM12")
 		(logical_part_mapping "HLK-PM12"
 			(comp "PS1"))
@@ -1773,6 +1785,20 @@
 				(attval "Part Number" "PY-TB2EDGCR-5.0-2P")
 				(attval "DEVICE" "PY-TB2EDGCR-5_0-2P")
 				(attval "REFDES" "J1")))
+		(component "HOLE_VICTORIA"
+			(place "H2" 0.0 0.0 top 0.0)
+			(attributes
+				(attval "Description" "HOLE 4.5MM")
+				(attval "Part Number" "HOLE")
+				(attval "DEVICE" "HOLE_VICTORIA_4_5MM")
+				(attval "REFDES" "H2")))
+		(component "HOLE_VICTORIA"
+			(place "H1" 0.0 0.0 top 0.0)
+			(attributes
+				(attval "Description" "HOLE 4.5MM")
+				(attval "Part Number" "HOLE")
+				(attval "DEVICE" "HOLE_VICTORIA_4_5MM")
+				(attval "REFDES" "H1")))
 		(component "1206MIL"
 			(place "F5" 0.0 0.0 top 0.0
 				(comp_pin "2" 0.0 0.0 "BI")
@@ -2293,6 +2319,8 @@
 		(func "$1I74" "" "J3" 1)
 		(func "$1I35" "" "J2" 1)
 		(func "$1I27" "" "J1" 1)
+		(func "$1I163" "" "H2" 1)
+		(func "$1I161" "" "H1" 1)
 		(func "$1I23\$1I120\$1I33" "" "F5" 1)
 		(func "$1I23\$1I120\$1I32" "" "F4" 1)
 		(func "$1I23\$1I118\$1I439" "" "F3" 1)

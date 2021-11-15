@@ -38,3 +38,4 @@ ICDB server [critical]: Server stopping: Requesting emergency server stop: Syste
 ICDB server [info]: [AutoSave] backup of size [283.6 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-18 14.52.10 - auto.zip]
 ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
 ICDB server [info]: [AutoSave] backup of size [287.5 kB] created successfully in location [C:\PADS Projects\DxProjects\IC-shelter\ProjectBackup\backups\2021-10-18 19.00.49 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>

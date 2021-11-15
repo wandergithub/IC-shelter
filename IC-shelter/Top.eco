@@ -1,11 +1,10 @@
 *PADS-ECO-V10.0-MILS*
-*REMARK*  old file: C:\PADS Projects\DxProjects\IC-shelter\PCB\IC-Shelt01.asc
+*REMARK*  old file: C:\PADS Projects\DxProjects\IC-shelter\PCB\IC-She layout con ru01.asc
 *REMARK*  new file: C:\PADS Projects\DxProjects\IC-shelter\Top.asc
-*REMARK*  created by ECOGEN (Version 6.4v) on 25/10/2021 7:20:36 p. m.
-*CHGPART*
-F1  FUSE-STD@FUSE-STD  FUSE-STD@1206MIL
-F2  FUSE-STD@FUSE-STD  FUSE-STD@1206MIL
-TVS2  TVS@DO-214AC  TVS@0805
+*REMARK*  created by ECOGEN (Version 6.4v) on 15/11/2021 1:46:00 p. m.
+*PART*
+H1  HOLE_VICTORIA_4_5MM@HOLE_VICTORIA
+H2  HOLE_VICTORIA_4_5MM@HOLE_VICTORIA
 *NET*
 *SIGNAL*  $1I23\$1N173
 U10.18
@@ -188,12 +187,18 @@ J6.1
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	U2
 "Geometry.Height"
-*DEL_ATTRIBUTE*	PART	TVS2
-"Geometry.Height"
 *DEL_ATTRIBUTE*	PART	TVS3
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	U11
 "Geometry.Height"
+*SET_ATTRIBUTE*	PART	H1
+"PKG_TYPE"	HOLE_VICTORIA
+"Part Number"	HOLE
+"Description"	HOLE 4.5MM
+*SET_ATTRIBUTE*	PART	H2
+"PKG_TYPE"	HOLE_VICTORIA
+"Part Number"	HOLE
+"Description"	HOLE 4.5MM
 
 *REMARK*  Deleted pins: 0,  Added pins: 3
 *END*
